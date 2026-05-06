@@ -1,7 +1,7 @@
 # Gabarit-MyST-PolyMTL
 Gabarit pour la template MyST book-theme aux couleurs de Polytechnique Montréal
 
-Pour utiliser le gabarit, il faut copier les fichiers et le dossier "images" à la racine du livre MyST.
+Pour utiliser le gabarit, il faut copier les fichiers "favicon.ico" et "poly.css" ainsi que le dossier "images" à la racine du livre MyST.
 Ensuite, il faut le déclarer comme suit dans le myst.yml existant :
 
 ```{code} yaml
@@ -14,4 +14,3 @@ site:
      logo_dark: ./images/site_logo_dark.png
      style: poly.css
 ```
-
