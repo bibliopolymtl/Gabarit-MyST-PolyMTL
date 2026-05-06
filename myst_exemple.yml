@@ -1,0 +1,36 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 
+  title: 
+  numbering:
+    title: true
+    start: 1
+  description:
+  keywords: [polytechnique montréal]
+  github:
+  toc:
+
+  - file: 
+    children:
+    - file: 
+
+  bibliography:
+    - bibliographie/bibliographie1.bib
+    - bibliographie/bibliographie2.bib
+    - bibliographie/bibliographie3.bib
+    - bibliographie/bibliographie4.bib
+    - bibliographie/bibliographie5.bib
+  license:
+    content:
+      id:
+    code:
+      id:
+site:
+  template: book-theme
+  options:
+     favicon: favicon.ico
+     logo: ./images/site_logo.png
+     logo_dark: ./images/site_logo_dark.png
+     logo_text:
+     style: poly.css
