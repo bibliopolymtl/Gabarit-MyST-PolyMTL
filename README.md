@@ -2,7 +2,7 @@
 Gabarit pour la template MyST book-theme aux couleurs de Polytechnique Montréal
 
 Pour utiliser le gabarit, il faut copier les fichiers et le dossier "images" à la racine du livre MyST.
-Ensuite, il faut le déclarer comme suit dans myst.yml existant :
+Ensuite, il faut le déclarer comme suit dans le myst.yml existant :
 
 ```{code} yaml
 :filename: myst.yml
